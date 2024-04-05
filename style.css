@@ -38,3 +38,57 @@ body {
     height: 400px;
     background-image: url('imagens/bg-jelly-fish-para_outras_pags.png');
 }
+
+.banner .container {
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.banner .container p {
+    font-size: 36px;
+    width: 25%;
+    text-align: center;
+}
+
+.banner .container p span {
+    font-weight: bold;
+}
+
+
+.social {
+    background-color: white;
+    padding: 50px 0;
+}
+
+.social .container {
+    justify-content: space-between;
+}
+
+.card {
+    width: 300px;
+    text-align: center;
+}
+
+.card img {
+    width: 100px;
+}
+
+.card h4 {
+    font-size: 20px;
+}
+
+.footer {
+    height: 100px;
+    background-color: #32b9cd;
+}
+
+.footer .container {
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.footer .container p {
+    font-weight: bold;
+}
