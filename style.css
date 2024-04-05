@@ -31,3 +31,10 @@ body {
     color: #e3b062;
     align-items: center;
 }
+
+.banner {
+    padding: 40px 0;
+    color: white;
+    height: 400px;
+    background-image: url('imagens/bg-jelly-fish-para_outras_pags.png');
+}
